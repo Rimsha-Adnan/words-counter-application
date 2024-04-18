@@ -15,7 +15,7 @@ It provides a simple and efficient way to analyze the textual content of files.<
 <h2><b>NPM Installation🎯</b></h2>
 <p><i>You can install it from npm if you wish to utilize it in real time.
 The command is :</br>
-npm i the-convertion-process</i></p>
+<b>npm i the-convertion-process</b></i></p>
 
 <h2><b>License📋</b></h2>
 <p><i>This project is licensed under the ISC License. See the LICENSE file for details.</i></p>
