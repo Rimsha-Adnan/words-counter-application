@@ -1,4 +1,4 @@
-<h1><i>>Word Counter Project⌨️</i></h1>
+<h1><i>Word Counter Project⌨️</i></h1>
 <h1><i>AUTHOR NAME 🖋️</i></h1>
 <h2><i>RIMSHA SHEIKH✨ </i></h2>
 <h1><i>Description📃</i></h1>
@@ -10,7 +10,7 @@ The Word Counter Project is a simple command-line tool designed to count the num
 <ul>
 
  <li><i>
-<li>Word Count: Counts the total number of words in the input text.</li>
+Word Count: Counts the total number of words in the input text.</li>
 <li>Character Count: Counts the total number of characters in the input text</li>.
 <li>Line Count: Counts the total number of lines in the input text.
 </i></li>
