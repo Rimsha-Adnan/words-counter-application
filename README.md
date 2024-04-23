@@ -1,23 +1,32 @@
-<h1><b>WORDS COUNTER APPLICATION📑</b></h1>
-<h2><b>AUTHOR :</b></h2>
-<h3><i>RIMSHA SHEIKH🖤</i></h3>
-<h2><b>DESCRIPTION📔</b></h2>
-<p><i>Word Counter is a lightweight command-line tool designed to count the number of words, characters, and lines in text files.<br/>
-It provides a simple and efficient way to analyze the textual content of files.</i></p>
+<h1>CLI-NUMBER-GAME🎯</h1>
+<h1>AUTHOR NAME :</h1>
+<h2>RIMSHA SHEIKH✨ </h2>
+<h1>Description</h1>
+<p>CLI Number Guessing Game is a simple command-line game where the player tries to guess a randomly generated number within a specified range.</p>
 
-<h2><b>Features✨</b></h2>
+<h1>FEATURES</h1>
+<h2>>How to Play</h2>
 <ul>
-<li><i>Count words, characters, and lines in text files.</li>
-<li>Supports both plain text files (.txt) and markdown files (.md).</li>
-<li>Option to perform case-sensitive word counting.</li>
-<li>Exclude specified characters from the count.</li></li></ul>
 
-<h2><b>NPM Installation🎯</b></h2>
-<p><i>You can install it from npm if you wish to utilize it in real time.
-The command is :</br>
-<b>npm i the-convertion-process</b></i></p>
+ <li> Starting the Game: Run the game executable or script.</li>
+<li>Guessing the Number: Enter your guess when prompted, following the instructions on the screen.</li>
+<li>Feedback: The game will provide feedback on your guess, informing you if your guess is too high, too low, or correct.</li>
+<li>Repeating: Continue guessing until you correctly guess the number or reach a maximum number of attempt</li>
+</ul>
 
-<h2><b>License📋</b></h2>
-<p><i>This project is licensed under the ISC License. See the LICENSE file for details.</i></p>
+<ul>
+ <li> Clone the repository to your local machine.</li>
+<li>Navigate to the project directory.</li>
+<li>Run the game executable or script.</li>
+</ul>
+
+<h1>License</h1>
+
+<p>This project is licensed under the SIC License. See LICENSE.md for details.</p>
+
+<h1><i>THANK YOU SO MUCH FOR CHECK MY REPO💗</i></h1>
+<h1>Installation</h1>
+
+
 
 
