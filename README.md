@@ -1,24 +1,26 @@
-<h1><i>CLI-NUMBER-GAME🎲 </i></h1>
-<h1><i>AUTHOR NAME :</i></h1>
+<h1><i>>Word Counter Project⌨️</i></h1>
+<h1><i>AUTHOR NAME 🖋️</i></h1>
 <h2><i>RIMSHA SHEIKH✨ </i></h2>
 <h1><i>Description📃</i></h1>
-<p><i>CLI Number Guessing Game is a simple command-line game where the player tries to guess a randomly generated number within a specified range.</i></p>
+<p><i>
+The Word Counter Project is a simple command-line tool designed to count the number of words, characters, and lines in a given text file or input text.</i></p>
 
 
-<h1><i>How to Play💻</i></h1>
+<h1><i>Features</i></h1>
 <ul>
 
- <li><i> Starting the Game: Run the game executable or script.</li>
-<li>Guessing the Number: Enter your guess when prompted, following the instructions on the screen.</li>
-<li>Feedback: The game will provide feedback on your guess, informing you if your guess is too high, too low, or correct.</li>
-<li>Repeating: Continue guessing until you correctly guess the number or reach a maximum number of attempt</i></li>
+ <li><i>
+<li>Word Count: Counts the total number of words in the input text.</li>
+<li>Character Count: Counts the total number of characters in the input text</li>.
+<li>Line Count: Counts the total number of lines in the input text.
+</i></li>
 </ul>
 
 <h1><i>INSTALLATION🚀</i></h1>
 <ul>
  <li><i> Clone the repository to your local machine.</li>
 <li>Navigate to the project directory.</li>
-<li>Run the game executable or script</i>.</li>
+<li>Run the word counterexecutable or script</i>.</li>
 </ul>
 
 <h1><i>License🔴</i></h1>
