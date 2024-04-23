@@ -1,10 +1,10 @@
-<h1>CLI-NUMBER-GAME🎯</h1>
+<h1><i>CLI-NUMBER-GAME🎯</i></h1>
 <h1>AUTHOR NAME :</h1>
 <h2>RIMSHA SHEIKH✨ </h2>
-<h1>Description</h1>
+<h1><i></i>Description</i></h1>
 <p>CLI Number Guessing Game is a simple command-line game where the player tries to guess a randomly generated number within a specified range.</p>
 
-<h1>FEATURES</h1>
+<h1><i></i>FEATURES</i></h1>
 <h2>>How to Play</h2>
 <ul>
 
@@ -20,12 +20,12 @@
 <li>Run the game executable or script.</li>
 </ul>
 
-<h1>License</h1>
+<h1><i>License</i></h1>
 
 <p>This project is licensed under the SIC License. See LICENSE.md for details.</p>
 
 <h1><i>THANK YOU SO MUCH FOR CHECK MY REPO💗</i></h1>
-<h1>Installation</h1>
+
 
 
 
